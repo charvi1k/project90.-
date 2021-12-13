@@ -1,0 +1,49 @@
+body
+{
+	background-position:center;
+	background-size:contain;
+	background:url(Screenshot\ 2021-12-04\ at\ 4.27.34\ PM.png);
+}
+
+	.login_div_1 , .login_div_2
+	{
+		background:rgb(206, 200, 200);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+	#name_1input , #name_2input
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 50%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#button_login 
+{
+	width: 200px;
+	background-color: purple;
+	color: white;
+}
+
+.h1{
+	color: purple;
+}
